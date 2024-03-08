@@ -16,6 +16,8 @@ body {
 aside {
     display: flex;
     flex-direction: column;
+    flex-basis: 65%;
+    padding-right: 25px;
 }
 
 main {
@@ -72,9 +74,17 @@ header, aside, footer {
 .principal__experience__title, .principal__training__title, .skills__title {
     background-color: #dbc2a4;
     color: black;
+    padding: 5px;
+    padding-left: 20px;
+
 }
 
 .presentation {
     padding: 5px;
     text-align: center;
+}
+
+.about__text, .language__liste__item, .interest__list__item {
+    padding-left: 20px;
+    text-align: justify;
 }

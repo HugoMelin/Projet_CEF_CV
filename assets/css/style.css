@@ -29,12 +29,13 @@ main {
 
 .contact__adress {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .presentation__figure {
     width: 250px;
     height: 250px;
+    margin: auto;
 }
 
 .presentation__photo {
@@ -71,4 +72,9 @@ header, aside, footer {
 .principal__experience__title, .principal__training__title, .skills__title {
     background-color: #dbc2a4;
     color: black;
+}
+
+.presentation {
+    padding: 5px;
+    text-align: center;
 }

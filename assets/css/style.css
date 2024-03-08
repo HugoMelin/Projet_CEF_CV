@@ -111,3 +111,8 @@ footer {
 .footer__img {
     width: 50px;
 }
+
+.principal__experience__content:hover, .principal__training__content:hover, .skills__list__item:hover{
+    padding-right: 5px;
+    border-right: 3px solid #782221;
+}

@@ -1,0 +1,18 @@
+aside {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact__adress {
+    display: flex;
+    justify-content: space-between;
+}

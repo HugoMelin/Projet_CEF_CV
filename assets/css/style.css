@@ -33,6 +33,7 @@ main {
 }
 
 .contact__adress {
+    background-color: #2c1d27;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -63,10 +64,6 @@ h1, h2, h3, h4, h5 {
 header, aside, footer {
     background-color: #782221;
     color: white;
-}
-
-.contact {
-    background-color: #2c1d27;
 }
 
 .contact__adress__link {

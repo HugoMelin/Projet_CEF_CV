@@ -95,3 +95,19 @@ header, aside, footer {
 .principal__experience__title, .principal__training__title, .skills__title {
     border-left: 5px solid #782221;
 }
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.footer__social{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer__img {
+    width: 50px;
+}

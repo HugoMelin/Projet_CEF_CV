@@ -116,3 +116,7 @@ footer {
     padding-right: 5px;
     border-right: 3px solid #782221;
 }
+
+.presentation__figure__link{
+    cursor: zoom-in;
+}

@@ -27,6 +27,9 @@ main {
 .principal {
     display: flex;
     flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
 }
 
 .contact__adress {
@@ -87,4 +90,8 @@ header, aside, footer {
 .about__text, .language__liste__item, .interest__list__item {
     padding-left: 20px;
     text-align: justify;
+}
+
+.principal__experience__title, .principal__training__title, .skills__title {
+    border-left: 5px solid #782221;
 }

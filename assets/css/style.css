@@ -35,6 +35,7 @@ main {
 .contact__adress {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .presentation__figure {
@@ -123,4 +124,8 @@ footer {
 
 .footer__link:hover {
     opacity: 75%;
+}
+
+a:hover {
+    text-decoration: underline;
 }

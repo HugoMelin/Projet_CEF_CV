@@ -120,3 +120,7 @@ footer {
 .presentation__figure__link{
     cursor: zoom-in;
 }
+
+.footer__link:hover {
+    opacity: 75%;
+}

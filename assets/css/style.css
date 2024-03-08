@@ -34,3 +34,7 @@ main {
     border-radius: 50%;
     box-shadow: 0 0 10px #2c1d27;
 }
+
+.about__text {
+    text-indent: 10%;
+}

@@ -126,3 +126,7 @@ footer {
 a:hover {
     text-decoration: underline;
 }
+
+.presentation__nom {
+    font-size: 2em;
+}
